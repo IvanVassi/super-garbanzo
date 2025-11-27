@@ -3,7 +3,7 @@
 A universal tool that splits PDF books into clean, chapter-level files.  
 It can extract the structure of a book from **built-in PDF bookmarks (outline)** or, when bookmarks are missing, from an **automatically detected table of contents** using an LLM (supports English and Russian books).
 
-Designed to produce clean chapter inputs for workflows like **Google NotebookLM**, embedding pipelines, summarization, and notebook-style LMs that require well-structured source documents.
+Designed to produce clean chapter inputs for workflows like **Google NotebookLM**, embedding pipelines, summarization.
 
 ---
 
